@@ -16,6 +16,8 @@ A strong negative correlation between Super Plasticizer and Water.
 positive correlations between Super Plasticizer and Fly Ash, Fine Aggregate.
 These correlations are useful to understand the data in detail, as they give an idea about how a variable is affecting the other.
 
+#### DEPLOYED API @ [APP](https://concrete-strength-pred.onrender.com/)
+
 ### References
 
 - I-Cheng Yeh, “ Modeling of strength of high performance concrete using artificial neural networks,” Cement and Concrete Research, Vol. 28, №12, pp. 1797–1808 (1998).
